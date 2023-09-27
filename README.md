@@ -1,5 +1,17 @@
-### Hi there I'm Lucas 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrn9)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there! I'm Lucas 👋, a Brazilian Front-End Developer.
+<div>
+  <img width="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrn9" /> 
+  Connect with me:
+<br/>
+<br/>
+<div>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /> Linkedin
+  <img height="32" width="32" src="https://cdn.simpleicons.org/esri/E34F26" /> Website
+</div>
+</div>
+<br/>
+<br/>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
