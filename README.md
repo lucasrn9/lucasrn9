@@ -1,4 +1,4 @@
-## Hi there! I'm Lucas 👋, a Brazilian Front-End Developer.</h2>
+## Hi there! I'm Lucas 👋, a Brazilian Front-End Developer.
 <div>
   <img width="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrn9" /> 
   Connect with me:
