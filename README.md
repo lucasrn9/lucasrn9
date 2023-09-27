@@ -5,8 +5,9 @@
 <br/>
 <br/>
 <div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /> Linkedin
-  <img height="32" width="32" src="https://cdn.simpleicons.org/esri/E34F26" /> Website
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /> <img width="2" /> <a href="https://www.linkedin.com/in/lucasrn9/" target="_blank">Linkedin</a>
+  <img width="16" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/esri/E34F26" /> <img width="2" /> <a href="https://www.linkedin.com/in/lucasrn9/" target="_blank">Website</a>
 </div>
 </div>
 <br/>
