@@ -5,7 +5,7 @@
 <br/>
 <br/>
 <div>
-  <img height="32" width="32" src="https://images.icon-icons.com/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" /> <img width="2" /> <a href="https://www.linkedin.com/in/lucasrn9/" target="_blank">Linkedin</a>
+  <img height="32" width="32" src="https://images.icon-icons.com/805/PNG/512/linkedin_icon-icons.com_65929.png" /> <img width="2" /> <a href="https://www.linkedin.com/in/lucasrn9/" target="_blank">Linkedin</a>
   <img width="16" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/esri/E34F26" /> <img width="2" /> <a href="https://www.linkedin.com/in/lucasrn9/" target="_blank">Website</a>
 </div>
