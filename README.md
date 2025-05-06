@@ -7,7 +7,7 @@
 <div>
   <img height="32" width="32" src="https://images.icon-icons.com/805/PNG/512/linkedin_icon-icons.com_65929.png" /> <img width="2" /> <a href="https://www.linkedin.com/in/lucasrn9/" target="_blank">Linkedin</a>
   <img width="16" />
-  <img height="32" width="32" src="https://images.icon-icons.com/561/PNG/512/website-design-symbol-1_icon-icons.com_53804.png" /> <img width="2" /> <a href="https://www.linkedin.com/in/lucasrn9/" target="_blank">Website & Portfolio</a>
+  <img height="32" width="32" src="https://images.icon-icons.com/561/PNG/512/website-design_icon-icons.com_53813.png" /> <img width="2" /> <a href="https://www.linkedin.com/in/lucasrn9/" target="_blank">Website & Portfolio</a>
 </div>
 </div>
 <br/>
